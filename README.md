@@ -31,7 +31,7 @@ Running at port 3333
 ## Technologies
 - [NodeJs](https://nodejs.org/en/)
 - [ExpressJs](https://expressjs.com/pt-br/)
-- [TypoORM](https://typeorm.io/#/)
+- [TypeORM](https://typeorm.io/#/)
 
 ## Licence
 
