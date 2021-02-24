@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/867362170392203265/1612207077/1500x500" align="center"></img>
 <h1 align="center">Next Level Week IV</h1>
-<p align="center">API Project <strong>Move.it</strong> developed during the Rocketseat Next Level Week II.
+<p align="center">API Project <strong>Move.it</strong> developed during the Rocketseat Next Level Week IV.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Backend
 
-<img align="center" src="assets/backend.png"></img>
+<img align="center" src="backend.png"></img>
 
 To run the API use:
 ```bash
