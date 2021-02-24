@@ -24,8 +24,14 @@ $ yarn
 
 # Run
 $ yarn dev
+
+Running at port 3333
 ```
-Running at port 3333.
+
+## Technologies
+- [NodeJs](https://nodejs.org/en/)
+- [ExpressJs](https://expressjs.com/pt-br/)
+- [TypoORM](https://typeorm.io/#/)
 
 ## Licence
 
