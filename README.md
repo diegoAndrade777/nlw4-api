@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/867362170392203265/1612207077/1500x500" align="center"></img>
 <h1 align="center">Next Level Week IV</h1>
-<p align="center">API Project <strong>Move.it</strong> developed during the Rocketseat Next Level Week IV.
+<p align="center">API Project developed during the Rocketseat Next Level Week IV.
 </p>
 
 <p align="center">
